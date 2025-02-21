@@ -4,6 +4,10 @@
 
 String functions to parse messy four word string into name grade and weight sas r python excel
 
+github                                                                                                                                 
+https://tinyurl.com/5t5cb3vp                                                                                                           
+https://github.com/rogerjdeangelis/utl-string-functions-to-parse-messy-four-word--string-into-name-grade-and-weight-sas-r-python-excel 
+
 stackoverflow R
 https://tinyurl.com/23t8r326
 https://stackoverflow.com/questions/79447615/splitting-one-column-to-three-columns-for-uneven-characters-in-r
